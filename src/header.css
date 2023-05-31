@@ -1,0 +1,22 @@
+.profile-action{
+position:absolute;
+top:100%;
+left:0;
+width:150px;
+z-index:10;
+padding:15px;
+display:flex;
+align-items:center;
+flex-direction:column;
+background-color: rgb(31,41,55);
+color:white;
+line-height:30px;
+margin-top:6px;
+display:none;
+cursor:pointer;
+
+}
+
+.showprofile{
+display:block;
+}
